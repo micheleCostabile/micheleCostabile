@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micheleCostabile, currently working for NTT Data
-- 🌱 I’m currently learning React and Angular
+- 🌱 I’m currently learning React and Angular, having fun with a Python bot
 - 📫 michele.costabile.pvt@gmail.com
 - ✨ GitLab account: @micheleCostabile
 <!---
